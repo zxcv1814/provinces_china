@@ -5,3 +5,5 @@ npm install mongodb --save
 mongodb+srv://dongquang:<HWGxBa7ni6UVE6JY>@table.mc0oyvt.mongodb.net/
 npm install mongodb csv-parser
 npm install fast-csv
+npm install mongoose
+npm list mongoose
